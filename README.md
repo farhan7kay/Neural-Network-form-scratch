@@ -101,7 +101,3 @@ To run the Neural Network and CNN implementations:
 ## Conclusion
 
 This project demonstrates the process of building and training both a basic Neural Network and a Convolutional Neural Network for image classification. By comparing the results of both approaches, it provides insights into the benefits of using CNNs for image-related tasks, as well as a foundation for further exploration and experimentation with neural network architectures.
-
-## Contributing, License, and Contact
-
-For information about contributing, license details, and contact information, please refer to the [Contributing](CONTRIBUTING.md), [LICENSE](LICENSE), and [CONTACT](CONTACT.md) files respectively.
